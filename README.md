@@ -10,3 +10,30 @@
 <br/>
 
 ## Lo-fi Prototype🐣
+![TripTalk_lofi](https://github.com/HyunJaeyeon/MC1_TripTalk/assets/64794813/c594f1b8-8c94-4207-96e9-50c06d7784fc)
+
+### Feature List
+- 리마인드 알림을 통해 대화 시작
+- 사진에 대해 AI와의 대화를 통해 성장포인트를 기록
+- 편집 후 대화 형식으로 공유
+- 문장별 댓글 기능을 통해 다른사람의 성장포인트 캐치
+
+<br/>
+
+## Working Prototype🏃
+> 구현 기능: 사진 고른 후 ai와 대화 기록 및 편집, 발행
+
+<table>
+  <tbody>
+    <tr>
+      <td colspan="1" align="center"><b>사진 선택</b></td>
+      <td colspan="1" align="center"><b>대화창</b></td>
+      <td colspan="1" align="center"><b>대화 편집 후 발행</b></td>
+    </tr>
+    <tr>
+      <td align="center"><a href=""><img src="https://github.com/HyunJaeyeon/MC1_TripTalk/assets/64794813/b3154606-37ee-4892-bae8-c41035ca4cbf" width="400px;" alt=""/></a></td>
+      <td align="center"><a href=""><img src="https://github.com/HyunJaeyeon/MC1_TripTalk/assets/64794813/30acef57-83cc-4caa-8d51-feb5d9db4de7" width="400px;" alt=""/></a></td>
+      <td align="center"><a href=""><img src="https://github.com/HyunJaeyeon/MC1_TripTalk/assets/64794813/ed0cbe53-98fe-4696-a7f0-43dd73ad6567" width="400px;" alt=""/></a></td>
+    </tr>
+  </tbody>
+</table>
